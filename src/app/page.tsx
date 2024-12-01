@@ -6,6 +6,7 @@ import ExplorCourse from './component/xplorCourse'
 import Achivements from './component/Achivements'
 import Course from './component/course'
 import Com from './component/com'
+import Team from './component/team'
 
 
 
@@ -22,7 +23,9 @@ const Home = () => {
           < ExplorCourse/>
           <Achivements/>
           <Course/>
+          <Team/>
         <Com/>
+        
           
         
         
